@@ -21,7 +21,7 @@ other landing request in the queue.
 1. Clone this repository or download the code files.
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/algal12/-Data-Structure-Algorithms-Assignment-1.git
     ```
 
 2. Ensure Python 3.x is installed on your machine. If not, you can download it from [python.org](https://www.python.org/).

@@ -7,6 +7,10 @@ emerg_land_queue = []  # Queue for emergency landing requests
 
 num_requests = 10
 
+# Intro message with delay
+print("Airport Communication Center: Awaiting flight requests.")
+time.sleep(2)  # Delay for 2 seconds before starting
+
 for i in range(num_requests):  # Loop for number of requests
     plane_req = random.randint(1, 3)  # Number of plane requests per round
     
@@ -50,4 +54,8 @@ for i in range(num_requests):  # Loop for number of requests
         flight = tkoff_queue.pop(0)
         print("CONTROL:", flight, "takeoff")
         time.sleep(1)  # Simulate a delay after each takeoff
+
+print("Airport Communication Center: Flight operations complete.")
+time.sleep(2)
+
 

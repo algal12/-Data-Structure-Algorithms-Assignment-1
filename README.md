@@ -1,4 +1,4 @@
-# -Data-Structure-Algorithms-Assignment-1
+# Data-Structure-Algorithms-Assignment-1
 Annotated software design that addresses the  data needs of an appropriate business problem.
 
 ## Overview
@@ -21,7 +21,7 @@ other landing request in the queue.
 1. Clone this repository or download the code files.
 
     ```bash
-    git clone https://github.com/algal12/-Data-Structure-Algorithms-Assignment-1.git
+    git clone https://github.com/algal12/Data-Structure-Algorithms-Assignment-1.git
     ```
 
 2. Ensure Python 3.x is installed on your machine. If not, you can download it from [python.org](https://www.python.org/).
